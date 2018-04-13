@@ -6,23 +6,23 @@ Data available to all users (including trainers)
 
 - "siRNAi-HeLa" dataset:
    * http://downloads.openmicroscopy.org/images/DV/siRNAi-HeLa/
+- "Cajal-bodies" dataset:
+   * http://downloads.openmicroscopy.org/images/DV/cajal-bodies
+- "CellProfiler images" dataset:
+   * http://downloads.openmicroscopy.org/images/TIFF
+- "Condensation" dataset:
+   * http://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Fiji Batch" dataset:
    * http://downloads.openmicroscopy.org/images/DV/P-TRE_10_R3D_D3D.dv 
    * http://downloads.openmicroscopy.org/images/DV/P-TRE_11_R3D_D3D.dv
+- "Multi-Z timelapse" dataset:
+   * http://downloads.openmicroscopy.org/images/DV/438CTR/
 - "PTRE" dataset:
-   * http://downloads.openmicroscopy.org/images/DV/
-- "Condensation" dataset:
-   * http://downloads.openmicroscopy.org/images/TIFF/condensation/
+   * http://downloads.openmicroscopy.org/images/DV/P-TRE/
 - "SVS" dataset:
    * http://downloads.openmicroscopy.org/images/SVS/
 - "U2OS_Eg5_PH3_005_R3D.dv" dataset:
    * http://downloads.openmicroscopy.org/images/DV/U2OS/
-- "Multi-Z timelapse" dataset:
-   * http://downloads.openmicroscopy.org/images/DV
-- "Cajal-bodies" dataset:
-   * http://downloads.openmicroscopy.org/images/DV
-- "CellProfiler images" dataset:
-   * http://downloads.openmicroscopy.org/images/TIFF
 
 
 Data available to trainers only
@@ -32,20 +32,15 @@ Data available to trainers only
    * http://downloads.openmicroscopy.org/images/HCS/INCELL2000/INMAC384-DAPI-CM-eGFP_59223_1/
 - "Brain" dataset:
    * http://www.osirix-viewer.com/resources/dicom-image-library/ (Alias Name: BRAINIX)
-- "CENP-B movies" dataset:
-   * http://downloads.openmicroscopy.org/images/DV
 - "chromatine-condensation" dataset:
    * http://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Knee" dataset:
    * http://www.osirix-viewer.com/resources/dicom-image-library/ (Alias Name: KNEE)
+- "PTRE" dataset:
+    * http://downloads.openmicroscopy.org/images/DV/P-TRE/
 - "U2OS" dataset:
    * http://downloads.openmicroscopy.org/images/DV/U2OS/
+- "zPTRE" dataset:
+    * http://downloads.openmicroscopy.org/images/DV/P-TRE/
 - "WesternBlots" dataset:
     * http://downloads.openmicroscopy.org/images/PNG/WesternBlots/
-- "zPTRE" dataset:
-    * http://downloads.openmicroscopy.org/images/DV/PTRE/
-- "Cajal Bodies" dataset:
-    * http://downloads.openmicroscopy.org/images/DV/
-
-
-
