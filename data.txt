@@ -9,7 +9,7 @@ Data available to all users (including trainers)
 - "Cajal-bodies" dataset:
    * http://downloads.openmicroscopy.org/images/DV/cajal-bodies
 - "CellProfiler images" dataset:
-   * http://downloads.openmicroscopy.org/images/TIFF
+   * http://downloads.openmicroscopy.org/images/TIFF/example-fly
 - "Condensation" dataset:
    * http://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Fiji Batch" dataset:
