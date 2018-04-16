@@ -7,18 +7,18 @@ Data available to all users (including trainers)
 - "siRNAi-HeLa" dataset:
    * http://downloads.openmicroscopy.org/images/DV/siRNAi-HeLa/
 - "Cajal-bodies" dataset:
-   * http://downloads.openmicroscopy.org/images/DV/cajal-bodies
+   * http://downloads.openmicroscopy.org/images/DV/alexia/cajal-bodies
 - "CellProfiler images" dataset:
-   * http://downloads.openmicroscopy.org/images/TIFF/example-fly
+   * http://downloads.openmicroscopy.org/images/TIFF/cellprofiler/fruit-fly-cells
 - "Condensation" dataset:
    * http://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Fiji Batch" dataset:
    * http://downloads.openmicroscopy.org/images/DV/P-TRE_10_R3D_D3D.dv 
    * http://downloads.openmicroscopy.org/images/DV/P-TRE_11_R3D_D3D.dv
 - "Multi-Z timelapse" dataset:
-   * http://downloads.openmicroscopy.org/images/DV/438CTR/
+   * http://downloads.openmicroscopy.org/images/DV/iain/438CTR/
 - "PTRE" dataset:
-   * http://downloads.openmicroscopy.org/images/DV/P-TRE/
+   * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "SVS" dataset:
    * http://downloads.openmicroscopy.org/images/SVS/
 - "U2OS_Eg5_PH3_005_R3D.dv" dataset:
