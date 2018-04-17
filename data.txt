@@ -13,8 +13,8 @@ Data available to all users (including trainers)
 - "Condensation" dataset:
    * http://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Fiji Batch" dataset:
-   * http://downloads.openmicroscopy.org/images/DV/P-TRE_10_R3D_D3D.dv 
-   * http://downloads.openmicroscopy.org/images/DV/P-TRE_11_R3D_D3D.dv
+   * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/P-TRE_10_R3D_D3D.dv 
+   * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/P-TRE_11_R3D_D3D.dv
 - "Multi-Z timelapse" dataset:
    * http://downloads.openmicroscopy.org/images/DV/iain/438CTR/
 - "PTRE" dataset:
@@ -30,17 +30,13 @@ Data available to trainers only
 
 - "INMAC384-DAPI-CM-eGFP_59223_1.xdce" plate:
    * http://downloads.openmicroscopy.org/images/HCS/INCELL2000/INMAC384-DAPI-CM-eGFP_59223_1/
-- "Brain" dataset:
-   * http://www.osirix-viewer.com/resources/dicom-image-library/ (Alias Name: BRAINIX)
 - "chromatine-condensation" dataset:
    * http://downloads.openmicroscopy.org/images/TIFF/condensation/
-- "Knee" dataset:
-   * http://www.osirix-viewer.com/resources/dicom-image-library/ (Alias Name: KNEE)
 - "PTRE" dataset:
-    * http://downloads.openmicroscopy.org/images/DV/P-TRE/
+    * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "U2OS" dataset:
    * http://downloads.openmicroscopy.org/images/DV/U2OS/
 - "zPTRE" dataset:
-    * http://downloads.openmicroscopy.org/images/DV/P-TRE/
+    * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "WesternBlots" dataset:
-    * http://downloads.openmicroscopy.org/images/PNG/WesternBlots/
+    * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
