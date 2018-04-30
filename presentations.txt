@@ -1,0 +1,8 @@
+This files indicates when the presentations, printed materials
+used for a given training session.
+The format is date (YYYY-MM-DD) and the location.
+
+2017-12-07/08 University of Cambridge U.K.
+------------------------------------------
+Walkthroughs for both days and general introduction about OMERO
+can be found at http://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/

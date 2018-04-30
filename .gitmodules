@@ -1,0 +1,9 @@
+[submodule "prod-playbooks"]
+	path = prod-playbooks
+	url = https://github.com/openmicroscopy/prod-playbooks
+[submodule "training-scripts"]
+	path = training-scripts
+	url = https://github.com/ome/training-scripts
+[submodule "training-notebooks"]
+	path = training-notebooks
+	url = https://github.com/ome/training-notebooks
