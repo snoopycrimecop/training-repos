@@ -2,8 +2,8 @@ This files indicates when the presentations, printed materials
 used for a given training session.
 The format is date (YYYY-MM-DD) and the location.
 
-2018-05-31 University of Dundee U.K
------------------------------------
+2018-05-31 University of Dundee U.K.
+------------------------------------
 Annual Users meeting. Three hours training session focusing on import,
 analysis and metadata handling.
 Walkthroughs and presentations can be found at
