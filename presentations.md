@@ -6,7 +6,7 @@ The format is date (YYYY-MM-DD) and the location.
 ----------------------------------------------
 Annual Users meeting. Three hours training session focusing on import,
 analysis and metadata handling.
-Walkthrough and presentations can be found at
+Walkthroughs and presentations can be found at
  * http://downloads.openmicroscopy.org/presentations/2018/Users-Meeting/Workshops/Metadata-Import
  * http://downloads.openmicroscopy.org/presentations/2018/Users-Meeting/Workshops/Metadata-Analysis
  * http://downloads.openmicroscopy.org/presentations/2018/Users-Meeting/Workshops/Metadata-Handling
