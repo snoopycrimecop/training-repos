@@ -42,4 +42,7 @@ Data available to trainers only
     * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
 - "Brain" dataset":
     * https://zenodo.org/record/16956#.Wt-UNtPwbdc
+-"idr0021" project:
+    * https://idr.openmicroscopy.org/webclient/?show=project-51
+
 
