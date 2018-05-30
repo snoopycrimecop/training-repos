@@ -6,7 +6,7 @@ The files used during a given session can be found in [data.md](data.md).
 
 ## Presentation
 Presentation and printed materials used during a given session can be found in
-[presentation.md](presentation.md).
+[presentations.md](presentations.md).
 
 ## Setup
 For all repositories, you will want to add an "upstream" remote which contains
