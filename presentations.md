@@ -2,6 +2,11 @@ This files indicates when the presentations, printed materials
 used for a given training session.
 The format is date (YYYY-MM-DD) and the location.
 
+2018-06-07 Elmi, University College Dublin, Ireland
+---------------------------------------------------
+Walkthrough and general introduction about OMERO used during Trends In Microscopy
+can be found at https://downloads.openmicroscopy.org/presentations/2018/ELMI-Dublin/
+
 2018-05-31 University of Dundee U.K.
 ------------------------------------
 Annual Users meeting. Three hours training session focusing on import,
