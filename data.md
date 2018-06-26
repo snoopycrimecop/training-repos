@@ -40,8 +40,8 @@ Data available to trainers only
     * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "WesternBlots" dataset:
     * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
-- "Brain" dataset":
-    * https://zenodo.org/record/16956#.Wt-UNtPwbdc
+- "Lionheart MRI DICOM" dataset:
+    * https://doi.org/10.5281/zenodo.16956
 - "idr0021" project:
     * https://idr.openmicroscopy.org/webclient/?show=project-51
 
