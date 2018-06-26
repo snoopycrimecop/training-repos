@@ -23,6 +23,8 @@ Data available to all users (including trainers)
    * http://downloads.openmicroscopy.org/images/SVS/
 - "U2OS_Eg5_PH3_005_R3D.dv" dataset:
    * http://downloads.openmicroscopy.org/images/DV/U2OS/
+- "Lionheart MRI DICOM" dataset:
+    * Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.16956
 
 
 Data available to trainers only
@@ -40,8 +42,6 @@ Data available to trainers only
     * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "WesternBlots" dataset:
     * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
-- "Lionheart MRI DICOM" dataset:
-    * Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.16956
 - "idr0021" project:
     * https://idr.openmicroscopy.org/webclient/?show=project-51
 
