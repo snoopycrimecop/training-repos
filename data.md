@@ -41,7 +41,7 @@ Data available to trainers only
 - "WesternBlots" dataset:
     * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
 - "Lionheart MRI DICOM" dataset:
-    * https://doi.org/10.5281/zenodo.16956
+    * Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.16956
 - "idr0021" project:
     * https://idr.openmicroscopy.org/webclient/?show=project-51
 
