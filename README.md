@@ -9,8 +9,7 @@ For all repositories, you will want to add an "upstream" remote which contains
 the source branch that you are looking to release. Where upstream and
 origin are the same, you will likely want both.
 
-## Recent Workshops: Presentations and walkthrough documents
-
+# Recent Workshops: Presentations and walkthrough documents
 
 2018-07-05/06 TOPIM-tech, Chania, Crete
 ---------------------------------------
