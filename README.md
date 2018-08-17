@@ -1,10 +1,10 @@
-# training-repos
+# Training Repos
 
 This is the main github repository for our training materials.
 Previous workshops are listed below, with links to training materials for each.
 
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
- * For details on the training repositories see, [about.md](about.md).
+ * For details on the training repositories and data download, see [about.md](about.md).
 
 
 2018-07-05/06 TOPIM-tech, Chania, Crete
