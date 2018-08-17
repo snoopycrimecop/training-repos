@@ -1,20 +1,17 @@
 # training-repos
-A super-module of all the repositories used for training sessions
 
-## Data
-The files used for workshops below can be found in [data.md](data.md).
+This is the main github repository for our training materials.
+Previous workshops are listed below, with links to training materials for each.
 
-## Setup
-For all repositories, you will want to add an "upstream" remote which contains
-the source branch that you are looking to release. Where upstream and
-origin are the same, you will likely want both.
+ * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
+ * For details on the training repositories see, [about.md](about.md).
 
 
 2018-07-05/06 TOPIM-tech, Chania, Crete
 ---------------------------------------
 A longer workshop on OMERO including Fiji, Orbit, CellProfiler, OMERO.parade and OMERO.figure.
  * **Full-day** workshop
- * About the workshop [slides](https://downloads.openmicroscopy.org/presentations/2018/TOPIM-Crete/OMERO-Thursday/)
+ * [Presentation](https://downloads.openmicroscopy.org/presentations/2018/TOPIM-Crete/OMERO-Thursday/) about the workshop
  * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/TOPIM-Crete/OMERO-Friday/)
  * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/TOPIM-Crete/TOPIM_walkthrough.pdf)
 
