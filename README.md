@@ -1,6 +1,6 @@
 # Training Repos
 
-This is the main github repository for our training materials.
+This is the main GitHub repository for our training materials.
 Previous workshops are listed below, with links to training materials for each.
 
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
@@ -60,4 +60,3 @@ and [Data Processing](https://training.csx.cam.ac.uk/bioinformatics/event/228078
  * Day 1 [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/walkthrough_day_1.pdf)
  * Day 2 intro [slides](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/Image-Processing-OMERO/)
  * Day 2 [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/walkthrough_day_2.pdf)
- 
