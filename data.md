@@ -16,6 +16,8 @@ Data imported for users (including trainers)
 - "Fiji Batch" dataset:
    * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/P-TRE_10_R3D_D3D.dv 
    * http://downloads.openmicroscopy.org/images/DV/elena/P-TRE/P-TRE_11_R3D_D3D.dv
+- "FRAP" dataset:
+   * https://downloads.openmicroscopy.org/images/DV/will/FRAP 
 - "Multi-Z timelapse" dataset:
    * http://downloads.openmicroscopy.org/images/DV/iain/438CTR/
 - "PTRE" dataset:
