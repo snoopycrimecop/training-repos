@@ -17,7 +17,7 @@ A longer workshop on OMERO including Fiji, Orbit, CellProfiler, OMERO.parade and
 
 2018-06-07 ELMI, University College Dublin, Ireland
 ---------------------------------------------------
-A brief workshop on OMERO including OMERO.iviewer, OMERO.figure and OMERO.parade.
+A workshop on OMERO including OMERO.iviewer, OMERO.figure and OMERO.parade.
  * **1-hour** workshop
  * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/ELMI-Dublin/OMERO-Workshop/)
  * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/ELMI-Dublin/elmi_walkthrough.pdf)
@@ -41,11 +41,13 @@ A workshop at the [Trends In Microscopy](http://www.tim2018.de/) meeting includi
 2018-02-09 James Hutton Institute, U.K.
 ---------------------------------------
 Walkthrough for Facility Manager and Restricted Admin features.
+ * **2-hour** workshop
  * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/HuttonInstitute-Invergowrie/Hutton_Institute_walkthrough.pdf)
 
 2018-01-10 University of Dundee, U.K.
 -------------------------------------
 Walkthrough and general introduction about OMERO.
+ * **1-hour** workshop
  * Introduction [slides (pdf)](https://downloads.openmicroscopy.org/presentations/2018/EastBio-Dundee/EastBio-presentation.pdf)
  * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/EastBio-Dundee/EastBio-workflow.pdf)
 
@@ -58,3 +60,4 @@ and [Data Processing](https://training.csx.cam.ac.uk/bioinformatics/event/228078
  * Day 1 [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/walkthrough_day_1.pdf)
  * Day 2 intro [slides](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/Image-Processing-OMERO/)
  * Day 2 [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2017/Cambridge-Training/walkthrough_day_2.pdf)
+ 
