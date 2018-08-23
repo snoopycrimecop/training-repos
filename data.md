@@ -1,8 +1,9 @@
-This document indicates the public data potentially used during
-training sessions.
+This document indicates the data imported into the outreach
+server used for training sessions. All data is publicly available to download
+from the links below.
 
-Data available to all users (including trainers)
-------------------------------------------------
+Data imported for users (including trainers)
+--------------------------------------------
 
 - "siRNAi-HeLa" dataset:
    * http://downloads.openmicroscopy.org/images/DV/siRNAi-HeLa/
@@ -27,7 +28,7 @@ Data available to all users (including trainers)
     * Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.16956
 
 
-Data available to trainers only
+Data imported for trainers only
 -------------------------------
 
 - "INMAC384-DAPI-CM-eGFP_59223_1.xdce" plate:
@@ -44,5 +45,4 @@ Data available to trainers only
     * http://downloads.openmicroscopy.org/images/PNG/will/WesternBlots/
 - "idr0021" project:
     * https://idr.openmicroscopy.org/webclient/?show=project-51
-
-
+    * Download and setup instructions at [idr0021-data-prep.md](https://github.com/ome/training-scripts/blob/master/maintenance/preparation/idr0021-data-prep.md)
