@@ -7,11 +7,9 @@ Data imported for users (including trainers)
 
 - "siRNAi-HeLa" dataset:
    * https://downloads.openmicroscopy.org/images/DV/siRNAi-HeLa/
-- "Cajal-bodies" dataset:
-   * https://downloads.openmicroscopy.org/images/DV/alexia/cajal-bodies
 - "CellProfiler images" dataset:
    * https://downloads.openmicroscopy.org/images/TIFF/cellprofiler/fruit-fly-cells
-- "Condensation" dataset:
+- "condensation" dataset:
    * https://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "Fiji Batch" dataset:
    * https://downloads.openmicroscopy.org/images/DV/elena/P-TRE/P-TRE_10_R3D_D3D.dv 
@@ -20,7 +18,7 @@ Data imported for users (including trainers)
    * https://downloads.openmicroscopy.org/images/DV/will/FRAP
 - "Kymograph" dataset:
    * http://jcb-dataviewer.rupress.org/jcb/browse/4573/12710/ Image identified by letter F
-- "Multi-Z timelapse" dataset:
+- "dv-iain-MultiTZ" dataset:
    * https://downloads.openmicroscopy.org/images/DV/iain/438CTR/
 - "PTRE" dataset:
    * https://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
@@ -37,10 +35,10 @@ Data imported for users (including trainers)
 Data imported for trainers only
 -------------------------------
 
+- "dv-alexia-BoxIt" dataset:
+    * http://downloads.openmicroscopy.org/images/DV/alexia/cajal-bodies/
 - "INMAC384-DAPI-CM-eGFP_59223_1.xdce" plate:
    * https://downloads.openmicroscopy.org/images/HCS/INCELL2000/INMAC384-DAPI-CM-eGFP_59223_1/
-- "chromatine-condensation" dataset:
-   * https://downloads.openmicroscopy.org/images/TIFF/condensation/
 - "PTRE" dataset:
     * https://downloads.openmicroscopy.org/images/DV/elena/P-TRE/
 - "U2OS" dataset:
