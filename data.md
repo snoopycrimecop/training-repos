@@ -30,6 +30,8 @@ Data imported for users (including trainers)
    * https://downloads.openmicroscopy.org/images/DV/U2OS/
 - "Lionheart MRI DICOM" dataset:
     * Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16956
+- "artificial-trackmate" dataset:
+   * http://fiji.sc/samples/FakeTracks.tif
 
 
 Data imported for trainers only
