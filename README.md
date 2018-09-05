@@ -7,6 +7,18 @@ Previous workshops are listed below, with links to training materials for each.
  * For details on the training repositories and data download, see [about.md](about.md).
 
 
+2018-09-03/04 MIAP, Basel, Switzerland
+--------------------------------------
+Two full-day workshops on OMERO including Fiji, Orbit, CellProfiler, OMERO.parade and OMERO.figure
+and CLI tools
+ * Two **Full-day** workshops
+ * [Workshop Intro Day 1](https://downloads.openmicroscopy.org/presentations/2018/MIAP-Basel/OMERO-Workshop-Monday/)
+ * Workshop [walkthrough pdf Day 1](https://downloads.openmicroscopy.org/presentations/2018/MIAP-Basel/OMERO_workshop_03092018.pdf)
+ * [IDR presentation Day 1](https://downloads.openmicroscopy.org/presentations/2018/MIAP-Basel/IDR_Basel_2018.pdf)
+ * [Workshop Intro Day 2](https://downloads.openmicroscopy.org/presentations/2018/MIAP-Basel/OMERO-Workshop-Tuesday/)
+ * Workshop [walkthrough pdf Day 1](https://downloads.openmicroscopy.org/presentations/2018/MIAP-Basel/OMERO_workshop_04092018.pdf)
+
+
 2018-07-05/06 TOPIM-tech, Chania, Crete
 ---------------------------------------
 A longer workshop on OMERO including Fiji, Orbit, CellProfiler, OMERO.parade and OMERO.figure.
