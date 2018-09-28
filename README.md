@@ -6,6 +6,12 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2018-09-19 MIAP, Sydney, Australia
+----------------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * **1.30 hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/GBI-Sydney/OMERO-Workshop)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/GBI-Sydney/Sydney_Workshop_19092018.pdf)
 
 2018-09-03/04 MIAP, Basel, Switzerland
 --------------------------------------
