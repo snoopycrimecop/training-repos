@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2018-10-25 OOW, Kobe, Japan
+---------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * **4.00 hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/OOW-Kobe/OMERO-Workshop)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/OOW-Kobe/OMERO_workshop_25102018.pdf)
+
 2018-10-18 NEUBIAS, Edinburgh, U.K.
 -----------------------------------
 A workshop on OMERO including MATLAB, OMERO.iviewer, OMERO.parade and OMERO.figure.
