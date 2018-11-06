@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2018-11-03 GBI-ABiS, Okinawa, Japan
+-----------------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * **2.00 hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/GBI-ABIs-Okinawa/)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/GBI-ABIs-Okinawa/OMERO_workshop_03112018.pdf)
+
 2018-10-25 OOW, Kobe, Japan
 ---------------------------
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
