@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2018-12-07 I2K, Heidelberg, Germany
+-----------------------------------
+A workshop on OMERO including Fiji, CellProfiler, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **1.30 hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/I2K-Heidelberg/)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/I2K-Heidelberg/Heidelberg_workshop_07122018.pdf)
+
 2018-12-06 BioInformatics for Biologists course, Cambridge, U.K.
 ---------------------------------------------------------------
 A workshop on OMERO including R, OMERO.iviewer, OMERO.parade and OMERO.figure.
