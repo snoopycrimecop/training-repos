@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2018-12-06 BioInformatics for Biologists course, Cambridge, U.K.
+---------------------------------------------------------------
+A workshop on OMERO including R, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **3.30 hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2018/Cambridge/)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2018/Cambridge/Cambridge_workshop_06122018.pdf)
+
 2018-11-27 Turku Bioimaging, Turku, Finland
 -------------------------------------------
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
