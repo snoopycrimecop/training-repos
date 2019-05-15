@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2019-04-09-10 Oxford, U.K.
+--------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **2-days** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2019/Oxford/)
+ * Workshop: [walkthrough Day 1 pdf](https://downloads.openmicroscopy.org/presentations/2019/Oxford/Oxford_May_2019_Day1.pdf), [walkthrough Day 2 pdf](https://downloads.openmicroscopy.org/presentations/2019/Oxford/Oxford_May_2019_Day2.pdf)
+
 2019-04-08-09 Dundee, U.K.
 --------------------------
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
