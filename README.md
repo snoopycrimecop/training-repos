@@ -6,6 +6,13 @@ Previous workshops are listed below, with links to training materials for each.
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
 
+2019-06-05/06 ELMI, Brno, Czech Republic
+----------------------------------------
+Two 1h-workshops on OMERO including OMERO.iviewer, OMERO.figure and OMERO.parade.
+ * **1-hour** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2019/ELMI/OMERO-workshop)
+ * Workshop [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2019/ELMI/ELMI_workshop_2019.pdf)
+
 2019-04-09-10 Oxford, U.K.
 --------------------------
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
