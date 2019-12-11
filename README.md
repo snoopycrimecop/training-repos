@@ -5,6 +5,28 @@ Previous workshops are listed below, with links to training materials for each.
 
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
+ * For workshop contents presented in user-friendly manner, see [omero-guides](https://omero-guides.readthedocs.io/en/latest/index.html)
+
+2019-11-11 Hamilton, New Zealand
+--------------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **1-day** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2019/New-Zealand/OMERO-workshop/)
+ * Workshop: [walkthrough Day 1 pdf](https://downloads.openmicroscopy.org/presentations/2019/New-Zealand/Hamilton_2019_walkthrough.pdf)
+
+2019-10-9-10 Freising, Germany
+------------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **2-days** workshop
+ * Workshop intro [slides Day 1](https://downloads.openmicroscopy.org/presentations/2019/Freising/Day1/), [slides Day 2](https://downloads.openmicroscopy.org/presentations/2019/Freising/Day2/)
+ * Workshop: [walkthrough Days 1 and 2 pdf](https://downloads.openmicroscopy.org/presentations/2019/Freising/Freising_walkthrough_Days_1_and_2.pdf)
+
+2019-09-05 Lisbon, Portugal
+---------------------------
+A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
+ * A **1-day** workshop
+ * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2019/Lisbon/OMERO-workshop/)
+ * Workshop: [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2019/Lisbon/Lisbon_September_2019_workshop.pdf)
 
 2019-06-10-11 Dundee, U.K.
 --------------------------
