@@ -17,7 +17,7 @@ A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure
 2019-10-9-10 Freising, Germany
 ------------------------------
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
- * A **2-days** workshop
+ * A **2-day** workshop
  * Workshop intro [slides Day 1](https://downloads.openmicroscopy.org/presentations/2019/Freising/Day1/), [slides Day 2](https://downloads.openmicroscopy.org/presentations/2019/Freising/Day2/)
  * Workshop: [walkthrough Days 1 and 2 pdf](https://downloads.openmicroscopy.org/presentations/2019/Freising/Freising_walkthrough_Days_1_and_2.pdf)
 
