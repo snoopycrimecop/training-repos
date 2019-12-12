@@ -12,7 +12,7 @@ Previous workshops are listed below, with links to training materials for each.
 A workshop on OMERO including Fiji, OMERO.iviewer, OMERO.parade and OMERO.figure.
  * A **1-day** workshop
  * Workshop intro [slides](https://downloads.openmicroscopy.org/presentations/2019/New-Zealand/OMERO-workshop/)
- * Workshop: [walkthrough Day 1 pdf](https://downloads.openmicroscopy.org/presentations/2019/New-Zealand/Hamilton_2019_walkthrough.pdf)
+ * Workshop: [walkthrough pdf](https://downloads.openmicroscopy.org/presentations/2019/New-Zealand/Hamilton_2019_walkthrough.pdf)
 
 2019-10-9-10 Freising, Germany
 ------------------------------
