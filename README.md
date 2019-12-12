@@ -5,7 +5,7 @@ Previous workshops are listed below, with links to training materials for each.
 
  * Also see the main OME website [training pages](https://www.openmicroscopy.org/training/).
  * For details on the training repositories and data download, see [about.md](about.md).
- * For workshop contents presented in user-friendly manner, see [omero-guides](https://omero-guides.readthedocs.io/en/latest/index.html)
+ * For workshop contents presented in a user-friendly manner, see [omero-guides](https://omero-guides.readthedocs.io/en/latest/index.html)
 
 2019-11-11 Hamilton, New Zealand
 --------------------------------
