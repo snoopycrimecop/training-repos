@@ -7,3 +7,9 @@
 [submodule "training-notebooks"]
 	path = training-notebooks
 	url = https://github.com/ome/training-notebooks
+[submodule "training-ansible"]
+	path = training-ansible
+	url = https://github.com/ome/training-ansible
+[submodule "training-docker"]
+	path = training-docker
+	url = https://github.com/ome/training-docker
